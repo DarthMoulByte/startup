@@ -10,9 +10,6 @@ The default blend file without the user settings.
 default_flat.xml:
 My default flat theme, more information on <a href="http://blenderartists.org/forum/showthread.php?388861-Theme-Default-Flat">blenderartist.org</a>.
 
-empty.blend:
-The empty blend file containg only layout adjustments, no scenes
-
 startup.blend:
 Blender's generated startup blend file after loading the default blend file.
 
