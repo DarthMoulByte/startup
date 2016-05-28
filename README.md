@@ -1,9 +1,6 @@
 # startup
 My blender startup files.
 
-basis.blend:
-The basis blend file for the interface layout.
-
 default.blend:
 The default blend file without the user settings.
 
