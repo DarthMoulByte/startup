@@ -10,7 +10,7 @@
                           axis_y="#2cdc2c"
                           axis_z="#2c2cdc">
         <wcol_regular>
-          <ThemeWidgetColors outline="#8c8c8c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#999999ff"
                              inner_sel="#646464ff"
                              item="#191919ff"
@@ -22,7 +22,7 @@
           </ThemeWidgetColors>
         </wcol_regular>
         <wcol_tool>
-          <ThemeWidgetColors outline="#8c8c8c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#999999ff"
                              inner_sel="#646464ff"
                              item="#191919ff"
@@ -34,7 +34,7 @@
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
-          <ThemeWidgetColors outline="#393939"
+          <ThemeWidgetColors outline="#333333"
                              inner="#464646ff"
                              inner_sel="#6c8dc2ff"
                              item="#ffffffff"
@@ -46,7 +46,7 @@
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_text>
-          <ThemeWidgetColors outline="#8c8c8c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#999999ff"
                              inner_sel="#999999ff"
                              item="#5a5a5aff"
@@ -70,7 +70,7 @@
           </ThemeWidgetColors>
         </wcol_option>
         <wcol_toggle>
-          <ThemeWidgetColors outline="#8c8c8c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#999999ff"
                              inner_sel="#646464ff"
                              item="#191919ff"
@@ -82,7 +82,7 @@
           </ThemeWidgetColors>
         </wcol_toggle>
         <wcol_num>
-          <ThemeWidgetColors outline="#a7a7a7"
+          <ThemeWidgetColors outline="#333333"
                              inner="#b4b4b4ff"
                              inner_sel="#999999ff"
                              item="#5a5a5aff"
@@ -94,7 +94,7 @@
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
-          <ThemeWidgetColors outline="#a7a7a7"
+          <ThemeWidgetColors outline="#333333"
                              inner="#b4b4b4ff"
                              inner_sel="#999999ff"
                              item="#808080ff"
@@ -142,7 +142,7 @@
           </ThemeWidgetColors>
         </wcol_pulldown>
         <wcol_menu_back>
-          <ThemeWidgetColors outline="#0c0c0c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#191919ff"
                              inner_sel="#2d2d2de6"
                              item="#646464ff"
@@ -166,7 +166,7 @@
           </ThemeWidgetColors>
         </wcol_pie_menu>
         <wcol_tooltip>
-          <ThemeWidgetColors outline="#0c0c0c"
+          <ThemeWidgetColors outline="#333333"
                              inner="#191919ff"
                              inner_sel="#2d2d2de6"
                              item="#646464ff"
@@ -178,7 +178,7 @@
           </ThemeWidgetColors>
         </wcol_tooltip>
         <wcol_menu_item>
-          <ThemeWidgetColors outline="#000000"
+          <ThemeWidgetColors outline="#333333"
                              inner="#00000000"
                              inner_sel="#6c8dc2ff"
                              item="#acacac80"
@@ -193,7 +193,7 @@
           <ThemeWidgetColors outline="#6a6a6a"
                              inner="#505050b4"
                              inner_sel="#646464b4"
-                             item="#808080ff"
+                             item="#333333ff"
                              text="#000000"
                              text_sel="#ffffff"
                              show_shaded="FALSE"
@@ -320,7 +320,7 @@
                               tab_back="#404040ff"
                               tab_outline="#3c3c3c">
             <gradients>
-              <ThemeGradientColors show_grad="FALSE"
+              <ThemeGradientColors show_grad="TRUE"
                                    gradient="#262626"
                                    high_gradient="#393939">
               </ThemeGradientColors>
@@ -398,11 +398,7 @@
       </ThemeGraphEditor>
     </graph_editor>
     <file_browser>
-      <ThemeFileBrowser selected_file="#ffa347"
-                        scrollbar="#a0a0a0"
-                        scroll_handle="#7f7070"
-                        active_file="#828282"
-                        active_file_text="#fafafa">
+      <ThemeFileBrowser selected_file="#ffa347">
         <space>
           <ThemeSpaceGeneric back="#4c4c4c"
                              title="#000000"
@@ -428,13 +424,6 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
-        <space_list>
-          <ThemeSpaceListGeneric list="#666666"
-                                 list_title="#000000"
-                                 list_text="#000000"
-                                 list_text_hi="#ffffff">
-          </ThemeSpaceListGeneric>
-        </space_list>
       </ThemeFileBrowser>
     </file_browser>
     <nla_editor>
@@ -512,6 +501,7 @@
                       keyframe_jitter_selected="#74c05b"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#000000ff"
+                      keyframe_scale_factor="1"
                       summary="#cc823e66">
         <space>
           <ThemeSpaceGeneric back="#6b6b6b"
