@@ -321,8 +321,8 @@
                               tab_outline="#3c3c3c">
             <gradients>
               <ThemeGradientColors show_grad="TRUE"
-                                   gradient="#262626"
-                                   high_gradient="#393939">
+                                   gradient="#1a1a1a"
+                                   high_gradient="#4d4d4d">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
