@@ -4,9 +4,9 @@
       <ThemeUserInterface menu_shadow_fac="0.01"
                           menu_shadow_width="0"
                           icon_file=""
-                          icon_alpha="0.8"
-                          widget_emboss="#ffffff00"
-                          axis_x="#bf3526"
+                          icon_alpha="0.7"
+                          widget_emboss="#0000000d"
+                          axis_x="#bb4538"
                           axis_y="#91bf5f"
                           axis_z="#6a8bbf">
         <wcol_regular>
@@ -228,9 +228,9 @@
         <wcol_state>
           <ThemeWidgetStateColors inner_anim="#c2846c"
                                   inner_anim_sel="#6c8dc2"
-                                  inner_key="#ffba66"
+                                  inner_key="#cd9552"
                                   inner_key_sel="#6c8dc2"
-                                  inner_driven="#cc3729"
+                                  inner_driven="#57688a"
                                   inner_driven_sel="#6c8dc2"
                                   blend="0.5">
           </ThemeWidgetStateColors>
@@ -313,7 +313,7 @@
                               header="#656565"
                               header_text="#0d0d0d"
                               header_text_hi="#f2f2f2"
-                              button="#65656540"
+                              button="#656565ff"
                               button_title="#0d0d0d"
                               button_text="#0d0d0d"
                               button_text_hi="#f2f2f2"
@@ -329,7 +329,7 @@
             </gradients>
             <panelcolors>
               <ThemePanelColors header="#0d0d0d19"
-                                back="#65656580"
+                                back="#65656540"
                                 show_header="TRUE"
                                 show_back="TRUE">
               </ThemePanelColors>
@@ -374,7 +374,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -410,7 +410,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -455,7 +455,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#ffffff"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#ffffff"
@@ -514,7 +514,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#ffffff"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#ffffff"
@@ -590,7 +590,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -638,7 +638,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -667,7 +667,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -706,7 +706,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -738,7 +738,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -763,8 +763,8 @@
                        gp_vertex_size="4"
                        node_selected="#8eb9ff"
                        node_active="#cccccc"
-                       wire="#0d0d0d"
-                       wire_inner="#1a1a1a"
+                       wire="#636363"
+                       wire_inner="#2c3549"
                        wire_select="#8eb9ff"
                        selected_text="#7f7373"
                        node_backdrop="#80808080"
@@ -793,7 +793,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -829,7 +829,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -859,7 +859,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -897,7 +897,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -926,7 +926,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -960,7 +960,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -1013,7 +1013,7 @@
                              header="#656565"
                              header_text="#0d0d0d"
                              header_text_hi="#f2f2f2"
-                             button="#65656540"
+                             button="#656565ff"
                              button_title="#0d0d0d"
                              button_text="#0d0d0d"
                              button_text_hi="#f2f2f2"
@@ -1040,9 +1040,9 @@
       </ThemeClipEditor>
     </clip_editor>
     <bone_color_sets>
-      <ThemeBoneColorSet normal="#9a3737"
-                         select="#bd3333"
-                         active="#f73939"
+      <ThemeBoneColorSet normal="#822d24"
+                         select="#a43529"
+                         active="#bb4538"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#cc5f47"
@@ -1050,9 +1050,9 @@
                          active="#cc8c29"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#359124"
-                         select="#62a629"
-                         active="#83cc3d"
+      <ThemeBoneColorSet normal="#6c8243"
+                         select="#82975a"
+                         active="#a3bd67"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#3c5894"
@@ -1065,24 +1065,24 @@
                          active="#f07aa4"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#4e2278"
-                         select="#644fa3"
-                         active="#977bd5"
+      <ThemeBoneColorSet normal="#5c3f78"
+                         select="#7364a3"
+                         active="#8a79b0"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#357860"
-                         select="#3c9579"
-                         active="#7db6ad"
+      <ThemeBoneColorSet normal="#4a7867"
+                         select="#578d7c"
+                         active="#6a9b93"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#4b707c"
                          select="#6a8691"
-                         active="#9bc2cd"
+                         active="#88aab4"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#998424"
                          select="#b39844"
-                         active="#c4cc29"
+                         active="#a8ac5a"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#1e2024"
@@ -1090,14 +1090,14 @@
                          active="#ffffff"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#6f3c6b"
-                         select="#a05dbe"
-                         active="#d451d6"
+      <ThemeBoneColorSet normal="#3c556f"
+                         select="#507596"
+                         active="#598aba"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#738e38"
-                         select="#89b03e"
-                         active="#c5ef79"
+      <ThemeBoneColorSet normal="#632727"
+                         select="#782a2a"
+                         active="#763c3c"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#8d8d8d"
@@ -1107,17 +1107,17 @@
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#835039"
                          select="#8b6229"
-                         active="#bd7b33"
+                         active="#9e6e3a"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#103115"
-                         select="#244316"
-                         active="#3d6236"
+      <ThemeBoneColorSet normal="#312525"
+                         select="#432828"
+                         active="#623c3c"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#7c996b"
-                         select="#9dba98"
-                         active="#b6ccb8"
+      <ThemeBoneColorSet normal="#809276"
+                         select="#879786"
+                         active="#a4b1a5"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
       <ThemeBoneColorSet normal="#706356"
@@ -1130,14 +1130,14 @@
                          active="#585e6b"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#5e4b49"
-                         select="#75645d"
-                         active="#6b6156"
+      <ThemeBoneColorSet normal="#5e4d4c"
+                         select="#756a66"
+                         active="#6b6661"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
-      <ThemeBoneColorSet normal="#5e395a"
-                         select="#754951"
-                         active="#6b4a44"
+      <ThemeBoneColorSet normal="#5e465b"
+                         select="#754f56"
+                         active="#6b4e49"
                          show_colored_constraints="FALSE">
       </ThemeBoneColorSet>
     </bone_color_sets>
