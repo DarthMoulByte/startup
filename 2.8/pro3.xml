@@ -1034,7 +1034,7 @@
         <space_list>
           <ThemeSpaceListGeneric list="#656565"
                                  list_title="#1a1a1a"
-                                 list_text="#1a1a1a"
+                                 list_text="#000000"
                                  list_text_hi="#cccccc">
           </ThemeSpaceListGeneric>
         </space_list>
