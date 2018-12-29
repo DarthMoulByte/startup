@@ -27,7 +27,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -42,7 +42,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -57,7 +57,7 @@
           <ThemeWidgetColors
             outline="#373737"
             inner="#585858ff"
-            inner_sel="#5680c2ff"
+            inner_sel="#6c8dc2cc"
             item="#cccccc80"
             text="#cccccc"
             text_sel="#cccccc"
@@ -72,7 +72,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -102,7 +102,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#606060ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#ccccccff"
             text="#999999"
             text_sel="#cccccc"
@@ -117,7 +117,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#606060ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -162,7 +162,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#3a3a3acc"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#667080ff"
             text="#999999"
             text_sel="#cccccc"
@@ -177,7 +177,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#393939ff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#ccccccff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -192,7 +192,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#3f3f3fff"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#ccccccff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -222,8 +222,8 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#2d2d2df5"
-            inner_sel="#6c8dc2ff"
-            item="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
+            item="#6c8dc2cc"
             text="#cccccc"
             text_sel="#1a1a1a"
             show_shaded="FALSE"
@@ -252,7 +252,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#00000000"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#00000000"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -297,7 +297,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#1a1a1a00"
-            inner_sel="#6c8dc2ff"
+            inner_sel="#6c8dc2cc"
             item="#5a5a5aff"
             text="#999999"
             text_sel="#cccccc"
@@ -318,6 +318,8 @@
             inner_driven_sel="#6c8dc2"
             inner_overridden="#ae4034"
             inner_overridden_sel="#bb4538"
+            inner_changed="#cc7529"
+            inner_changed_sel="#e6852d"
             blend="0.5"
             >
           </ThemeWidgetStateColors>
@@ -828,7 +830,7 @@
             button_title="#cccccc"
             button_text="#999999"
             button_text_hi="#cccccc"
-            navigation_bar="#232323ff"
+            navigation_bar="#1f1f1ff5"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1047,7 +1049,7 @@
           <ThemeSpaceGeneric
             back="#656565"
             title="#1a1a1a"
-            text="#1a1a1a"
+            text="#cccccc"
             text_hi="#cccccc"
             header="#65656500"
             header_text="#1a1a1a"
@@ -1056,7 +1058,7 @@
             button_title="#cccccc"
             button_text="#999999"
             button_text_hi="#cccccc"
-            navigation_bar="#373737ff"
+            navigation_bar="#1f1f1ff5"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1064,9 +1066,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#282828f5"
-                back="#2d2d2df5"
-                sub_back="#1f1f1ff5"
+                header="#1a1a1a1a"
+                back="#65656580"
+                sub_back="#1a1a1a24"
                 >
               </ThemePanelColors>
             </panelcolors>
