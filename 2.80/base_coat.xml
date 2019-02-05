@@ -5,8 +5,8 @@
         menu_shadow_fac="0.01"
         menu_shadow_width="0"
         icon_file=""
-        icon_alpha="0.7"
-        icon_saturation="0.5"
+        icon_alpha="1"
+        icon_saturation="0.65"
         widget_emboss="#1a1a1a0d"
         editor_outline="#2d2d2d"
         axis_x="#bb4538"
@@ -20,14 +20,14 @@
         icon_collection="#ccccccff"
         icon_object="#cd9552ff"
         icon_object_data="#afb792ff"
-        icon_modifier="#6a8bbfff"
+        icon_modifier="#7aa0dcff"
         icon_shading="#bb4d38ff"
         >
         <wcol_regular>
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -42,7 +42,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -57,7 +57,7 @@
           <ThemeWidgetColors
             outline="#373737"
             inner="#585858ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#cccccc80"
             text="#cccccc"
             text_sel="#cccccc"
@@ -72,7 +72,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#464646ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -102,7 +102,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#606060ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#ccccccff"
             text="#999999"
             text_sel="#cccccc"
@@ -117,7 +117,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#606060ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#667080ff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -162,7 +162,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#3a3a3acc"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#667080ff"
             text="#999999"
             text_sel="#cccccc"
@@ -177,7 +177,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#393939ff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#ccccccff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -192,7 +192,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#3f3f3fff"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#ccccccff"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -222,8 +222,8 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#2d2d2df5"
-            inner_sel="#6c8dc2cc"
-            item="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
+            item="#6c8dc2b3"
             text="#cccccc"
             text_sel="#1a1a1a"
             show_shaded="FALSE"
@@ -252,7 +252,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#00000000"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#00000000"
             text="#cccccc"
             text_sel="#1a1a1a"
@@ -297,7 +297,7 @@
           <ThemeWidgetColors
             outline="#333333"
             inner="#1a1a1a00"
-            inner_sel="#6c8dc2cc"
+            inner_sel="#6c8dc2b3"
             item="#5a5a5aff"
             text="#999999"
             text_sel="#cccccc"
@@ -408,7 +408,7 @@
         frame_current="#ffbb66"
         paint_curve_handle="#99ff997f"
         paint_curve_pivot="#ff99997f"
-        outline_width="2"
+        outline_width="3"
         >
         <space>
           <ThemeSpaceGradient
@@ -423,6 +423,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -431,8 +432,8 @@
             <gradients>
               <ThemeGradientColors
                 show_grad="TRUE"
-                gradient="#1d1f21"
                 high_gradient="#494f55"
+                gradient="#1d1f21"
                 >
               </ThemeGradientColors>
             </gradients>
@@ -493,6 +494,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -537,6 +539,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -589,6 +592,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -660,6 +664,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -744,6 +749,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -798,6 +804,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -831,6 +838,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#1f1f1ff5"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -876,6 +884,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -937,6 +946,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -982,6 +992,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1026,6 +1037,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1043,39 +1055,40 @@
         </space>
       </ThemeInfo>
     </info>
-    <user_preferences>
-      <ThemeUserPreferences>
+    <preferences>
+      <ThemePreferences>
         <space>
           <ThemeSpaceGeneric
-            back="#656565"
-            title="#1a1a1a"
-            text="#cccccc"
-            text_hi="#cccccc"
-            header="#65656500"
-            header_text="#1a1a1a"
-            header_text_hi="#cccccc"
-            button="#2d2d2d00"
-            button_title="#cccccc"
-            button_text="#999999"
-            button_text_hi="#cccccc"
-            navigation_bar="#1f1f1ff5"
-            tab_active="#2d2d2d"
-            tab_inactive="#282828"
-            tab_back="#1f1f1ff5"
-            tab_outline="#1a1a1a"
+            back="#424242"
+            title="#eeeeee"
+            text="#e6e6e6"
+            text_hi="#ffffff"
+            header="#424242ff"
+            header_text="#eeeeee"
+            header_text_hi="#ffffff"
+            button="#424242ff"
+            button_title="#ffffff"
+            button_text="#e5e5e5"
+            button_text_hi="#ffffff"
+            navigation_bar="#4b4b4bff"
+            execution_buts="#4b4b4bff"
+            tab_active="#4b4b4b"
+            tab_inactive="#2b2b2b"
+            tab_back="#232323ff"
+            tab_outline="#232323"
             >
             <panelcolors>
               <ThemePanelColors
-                header="#1a1a1a1a"
-                back="#65656580"
-                sub_back="#1a1a1a24"
+                header="#42424200"
+                back="#333333b3"
+                sub_back="#0000003e"
                 >
               </ThemePanelColors>
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
-      </ThemeUserPreferences>
-    </user_preferences>
+      </ThemePreferences>
+    </preferences>
     <console>
       <ThemeConsole
         line_output="#de935f"
@@ -1099,6 +1112,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1132,6 +1146,8 @@
         frame_current="#ffbb66"
         strips="#1a1a1a"
         strips_selected="#8eb9ff"
+        metadatabg="#000000"
+        metadatatext="#ffffff"
         handle_free="#8b6229"
         handle_auto="#4b707c"
         handle_align="#6d468d"
@@ -1158,6 +1174,7 @@
             button_text="#999999"
             button_text_hi="#1a1a1a"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#2d2d2d"
             tab_inactive="#282828"
             tab_back="#1f1f1ff5"
@@ -1200,6 +1217,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#5680c2"
             tab_inactive="#424242"
             tab_back="#232323ff"
@@ -1233,6 +1251,7 @@
             button_text="#999999"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
+            execution_buts="#00000000"
             tab_active="#5680c2"
             tab_inactive="#424242"
             tab_back="#232323ff"
